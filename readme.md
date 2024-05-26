@@ -1,6 +1,6 @@
 Kefrens bars for DMG(Gameboy)
 
-![screenshot](kefrens_bar_screenshot.png)
+![screenshot](kefrens_bars.gif)
 
 reimplementation by eagle0wl
 powered by rgbasm v0.7.0
