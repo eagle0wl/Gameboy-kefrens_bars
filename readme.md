@@ -1,15 +1,15 @@
-Kefrens bars for DMG(Gameboy)
+# Kefrens bars for DMG(Gameboy)
 
 ![screenshot](kefrens_bars.gif)
 
-reimplementation by eagle0wl
+reimplementation by eagle0wl  
 powered by rgbasm v0.7.0
 
-https://github.com/eagle0wl/
-masm0wl [at] hotmail [dot] com
+https://github.com/eagle0wl/  
+masm0wl [at] hotmail [dot] com  
 
-This program is a reimplementation based on reverse engineering "20y" by Snorpung.
-Thanks so much.
+This program is a reimplementation based on reverse engineering "20y" by Snorpung.  
+Thanks so much.  
 https://www.pouet.net/prod.php?which=53492
 
 
