@@ -62,7 +62,7 @@ SECTION "Org $0100", ROM0[$100]
 ; Rom Header Info
 ;			 0123456789abcde
 	db		"Kefrens_Bar    "				; $0134-$0142 Game Name
-	db		CART_COMPATIBLE_DMG_GBC			; $0143       Color GameBoy compatibility code
+	db		CART_COMPATIBLE_DMG				; $0143       Color GameBoy compatibility code
 	db		$00, $00						; $0144-$0145 new license
 	db		CART_INDICATOR_GB				; $0146       GameBoy/Super GameBoy indicator
 	db		CART_ROM						; $0147       Cartridge type
